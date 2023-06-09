@@ -1,0 +1,11 @@
+﻿{
+  "name": "GrassFlowDetailRenderer.Editor",
+  "rootNamespace": "GrassFlowDetailRenderer",
+  "references": [
+    "GUID:665ba33634f0b7a478a5ddd9a91b69f7",
+    "GUID:d511de40c94543289d60c1b9f00f5bf9"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ]
+}
